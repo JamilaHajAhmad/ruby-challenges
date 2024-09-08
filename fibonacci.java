@@ -13,5 +13,12 @@ public class fibonacci {
     }
 }
 
+/*
+    1. fibonacciSequence method takes the parameter n of type int and 
+    performs recursion to return the fibonacci number at the position n
+
+    2. An object of fibonacci class was created to call the method
+ */
+
 
 
